@@ -1,7 +1,6 @@
 ---
 created: 2026-04-02T12:32
 updated: 2026-04-02T12:32
-tags:
 featured_image: imgs/Pasted image 20260402123458.png
 thumbnail: imgs/resized/1e7116dee3ee769d38e33addf1ace275_86cf658e.webp
 ---
@@ -99,7 +98,6 @@ Batch Size: 8
 
 ### Todo:
 ---
-- Add Stuff to Github
 - Test Results
 - Finetune Encoder(Full SAM)
 - Out-of-the-box MobileSAM + DeepLab
